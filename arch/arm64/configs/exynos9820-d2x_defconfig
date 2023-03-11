@@ -3739,6 +3739,7 @@ CONFIG_SND_SOC_COMPRESS=y
 # CONFIG_SND_SOC_AMD_ACP is not set
 # CONFIG_SND_ATMEL_SOC is not set
 # CONFIG_SND_DESIGNWARE_I2S is not set
+CONFIG_MORO_SOUND=y
 
 #
 # SoC Audio for Freescale CPUs
